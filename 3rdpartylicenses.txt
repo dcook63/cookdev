@@ -35,6 +35,9 @@ MIT
 @angular/router
 MIT
 
+@salesforce-ux/design-system
+SEE LICENSE IN README.md
+
 core-js
 MIT
 Copyright (c) 2014-2019 Denis Pushkarev
